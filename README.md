@@ -1,6 +1,6 @@
 # Business-Insight-360
 Business Insights 360
-
+Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiNzExNjc5NmMtZmMwMS00MmFkLWIwN2ItMmIzMTFkNDBjN2QzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 Transforming Data into Actionable Business Intelligence
 
 Every growing organization faces a common challenge — vast amounts of data scattered across multiple departments, but limited visibility into the bigger picture.
